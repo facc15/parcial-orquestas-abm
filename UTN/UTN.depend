@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1570385512 source:g:\parcial\utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1570252834 g:\parcial\utn\utn.h
+
+1570388022 g:\parcial\utn\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1570255032 source:g:\parcial\utn\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570388028 source:g:\parcial\utn\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1570255032 source:e:\parcial\utn\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570252834 e:\parcial\utn\utn.h
+
+1570281332 source:e:\parcial\utn\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1570281262 e:\parcial\utn\funciones.h
+	"utn.h"
+	<stdio.h>
+
+1570281464 source:e:\parcial\utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
